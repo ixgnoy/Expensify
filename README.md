@@ -51,9 +51,9 @@ This app follows a consistent dark-themed design language with:
 - Rounded corners for a friendly appearance
 - Clear typography for readability
 
-## Notes
+## Future Enhancements:
 
-This is a front-end prototype only. In a production app, you would need to:
+This is a front-end prototype only. In a production app, I would need to:
 - Implement a back-end server
 - Add a database for persistent storage
 - Implement proper authentication and security
