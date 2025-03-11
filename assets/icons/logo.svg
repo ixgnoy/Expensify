@@ -1,0 +1,14 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="45" fill="#ff4d67" />
+  
+  <!-- Dollar sign -->
+  <path d="M50,20 C42,20 36,25 36,32 C36,45 64,39 64,54 C64,62 56,67 50,67 C43,67 36,61 36,54" 
+        stroke="white" stroke-width="6" fill="none" stroke-linecap="round" />
+  
+  <!-- Vertical line -->
+  <line x1="50" y1="15" x2="50" y2="75" stroke="white" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- Small dot -->
+  <circle cx="65" cy="30" r="5" fill="#ffb703" />
+</svg> 
